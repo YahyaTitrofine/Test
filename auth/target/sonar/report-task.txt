@@ -1,0 +1,6 @@
+projectKey=com.Client:auth
+serverUrl=http://localhost:9000
+serverVersion=8.6.0.39681
+dashboardUrl=http://localhost:9000/dashboard?id=com.Client%3Aauth
+ceTaskId=AXcWMJfq4cFzBs1ier8M
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXcWMJfq4cFzBs1ier8M
